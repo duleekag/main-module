@@ -1,0 +1,3 @@
+[submodule "sub-python-module"]
+	path = sub-python-module
+	url = https://github.com/duleekag/sub-python-module.git
